@@ -1,9 +1,9 @@
 # Data Analytics Projects
 
 ## Project - 01
-File name: ####EDA-REGRESSION.ipynb
+File name: #### EDA-REGRESSION.ipynb
 
-##Project Title: Dataset Analysis and Regression Modeling
+####Project Title: Dataset Analysis and Regression Modeling
 
 ####Objective
 Students will analyze a given dataset to:
