@@ -70,7 +70,7 @@ Project Md Rifat Ahmmad Rashid Associate Professor, EWU
 • Step 4.4: Interpret the results.
 – Explain the relationship between the independent and dependent variables.
 
-## Project - 01
+## Project - 02
 File name: hypothesis-analysis.ipynb
 
 The retail marketing department wants to identify the potential customers who have a higher
