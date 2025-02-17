@@ -5,7 +5,7 @@ File name: ### EDA-REGRESSION.ipynb
 
 #### Project Title: Dataset Analysis and Regression Modeling
 
-# Objective
+#### Objective
 Students will analyze a given dataset to:
 1. Identify and resolve dataset issues (missing values, outliers).
 2. Perform Exploratory Data Analysis (EDA).
